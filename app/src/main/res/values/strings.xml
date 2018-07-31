@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Financial Calculator</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">What is SIP?</string>
+    <string name="slide_1_desc">Systematic Investment Plan (SIP) is a kind of investment scheme offered by mutual fund companies. Using SIP one can invest small amount peridically (weekly, monthly, quaterly) into a selected mutual fund.</string>
+
+    <string name="slide_2_title">How does it work?</string>
+    <string name="slide_2_desc">Your money is auto-debited from your bank account and invested into a specific mutual fund scheme.You are allocated certain number of units based on the ongoing market rate (called NAV or net asset value) for the day.</string>
+
+    <string name="slide_3_title">Benefits of SIP</string>
+    <string name="slide_3_desc">You donot need to speculate or focus on timing the market, Amount is invested on monthly basis, so there is little to no impact of market volatility, it is very flexible - you can create/update/cancel SIP anytime.</string>
+
+    <string name="slide_4_title">Power of Computing</string>
+    <string name="slide_4_desc">One of the key factors that makes SIP in mutual funds a wise investment option is the "power of compounding". It is best summed as:
+        Early Investments = Multiplying Returns</string>
+    <string name="slide_5_title">Did You Know?</string>
+    <string name="slide_5_desc">If you start a SIP as low as 1000 rupees per month for 1 year. Your total investment would be 12 thousand rupees at the end and You will get 13.4 thousand at the end of the year. Happy investing.</string>
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="category_input">SIP Amount</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_rate">Return Rate</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_fd">SIP vs FD</string>
+</resources>

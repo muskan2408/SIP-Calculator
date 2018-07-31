@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_simple"
+            android:icon="@drawable/cal"
+            android:title="Simple Interest Calculator" />
+        <item
+            android:id="@+id/nav_compound"
+            android:icon="@drawable/cal"
+            android:title="Compound Interest Calculator" />
+        <!--<item-->
+            <!--android:id="@+id/nav_loan"-->
+            <!--android:icon="@drawable/cal"-->
+            <!--android:title="Loan Calculator" />-->
+        <item
+            android:id="@+id/nav_spi"
+            android:icon="@drawable/cal"
+            android:title="SIP Calculator" />
+        <item
+            android:id="@+id/nav_learn"
+            android:icon="@drawable/intromin"
+            android:title="SIP Introduction" />
+        <!--<item-->
+            <!--android:id="@+id/nav_income"-->
+            <!--android:icon="@drawable/cal"-->
+            <!--android:title="Income Tax Calculator" />-->
+        <!--<item-->
+            <!--android:id="@+id/nav_settings"-->
+            <!--android:icon="@drawable/ic_settings_black_24dp"-->
+            <!--android:title="Settings" />-->
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/ic_share_black_24dp"
+            android:title="Share this App" />
+        <item
+            android:id="@+id/nav_rate"
+            android:icon="@drawable/ic_star_black_24dp"
+            android:title="Rate this App" />
+    </group>
+</menu>
