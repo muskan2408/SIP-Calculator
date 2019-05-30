@@ -1,6 +1,6 @@
 # SIP-Calculator
 
-# Welcome sliders by which we can easily understand.
+# Introduction sliders.
 
 <image src="images/welcome1.png" width="220" height="370">
 <image src="images/welcome2.png" width="220" height="370">
@@ -8,7 +8,7 @@
 <image src="images/welcome4.png" width="220" height="370">
 <image src="images/welcome5.png" width="220" height="370">
 
-# These are the main screens of the app
+# Main screens of the app
 
 <image src="images/sip1.png" width="220" height="370">
 <image src="images/sip2.png" width="220" height="370">
