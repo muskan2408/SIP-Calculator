@@ -9,14 +9,12 @@
 
 # Main screens of the app
 
-<image src="images/sip1.png" width="220" height="370">
-<image src="images/sip2.png" width="220" height="370">
-<image src="images/sip3.png" width="220" height="370">
+<image src="images/sip1.png" width="220" height="370"> <image src="images/sip2.png" width="220" height="370"> <image src="images/sip3.png" width="220" height="370">
 
-# simple and compound interest calculator screens
+# Simple and Compound interest calculator screens
 
-<image src="images/simple.png" width="220" height="370">
-<image src="images/compound.png" width="220" height="370">
-# This is navigation drawer
+<image src="images/simple.png" width="220" height="370"> <image src="images/compound.png" width="220" height="370">
+  
+# Navigation drawer
 
 <image src="images/navigation.png" width="220" height="370">
