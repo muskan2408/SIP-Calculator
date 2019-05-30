@@ -2,11 +2,10 @@
 
 # Introduction sliders.
 
-<image src="images/welcome1.png" width="220" height="370">
-<image src="images/welcome2.png" width="220" height="370">
-<image src="images/welcome3.png" width="220" height="370">
-<image src="images/welcome4.png" width="220" height="370">
-<image src="images/welcome5.png" width="220" height="370">
+<image src="images/welcome1.png" width="220" height="370"> <image src="images/welcome2.png" width="220" height="370"> <image src="images/welcome3.png" width="220" height="370">
+
+<image src="images/welcome4.png" width="220" height="370"> <image src="images/welcome5.png" width="220" height="370">
+
 
 # Main screens of the app
 
